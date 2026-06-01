@@ -1,0 +1,11 @@
+| Indicator              | Found?   | Explanation                                          |
+| ---------------------- | -------- | ---------------------------------------------------- |
+| Suspicious Subject     | Yes      | Attractive job offer                                 |
+| Sender Spoofing        | Possible | Bank of Tanzania email used for UNICEF job           |
+| Gmail Contact Address  | Yes      | Legitimate organizations don't recruit through Gmail |
+| Unrealistic Offer      | Yes      | $500/week work-from-home                             |
+| Social Engineering     | Yes      | Tempting users with easy money                       |
+| Poor Grammar           | Yes      | Awkward wording                                      |
+| Missing Official Links | Yes      | No UNICEF recruitment page                           |
+| Generic Signature      | Yes      | "Career Opportunity" only                            |
+| Urgency                | Moderate | Encourages immediate contact                         |
