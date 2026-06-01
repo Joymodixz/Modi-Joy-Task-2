@@ -1,0 +1,11 @@
+Header Information
+Field            	Value
+Message ID      	123456789@mail.paypa1-support.com
+From            	PayPal Security Team security-team@paypa1-support.com
+To              	victim@example.com
+Subject	Urgent:   Verify Your Account Immediately
+SPF               Status	Fail
+DKIM              Status	Fail
+DMARC             Status	Fail
+Sending Server	  mail.paypa1-support.com
+Protocol  	      ESMTP
